@@ -1,4 +1,4 @@
-# Hi there 👋 Hi I'm Juan a Senior Front End Developer
+# Hi there 👋 I'm Juan a Senior Front End Developer
 
 <!--
 **juansvc/juansvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
