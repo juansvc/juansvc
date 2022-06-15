@@ -34,9 +34,10 @@ Here are some ideas to get you started:
 ![Storybook](https://img.shields.io/badge/Storybook-red)
 ![GraphQL](https://img.shields.io/badge/GraphQL-red)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/juansvc?cardType=level&theme=react)](https://git.io/awesome-stats-card)
+![](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&theme=swift&hide=python,jupyter%20notebook,shell)](https://github.com/juansvc/github-readme-stats)
+![](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ### BYE 👋
