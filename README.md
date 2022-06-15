@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 ![GraphQL](https://img.shields.io/badge/GraphQL-red)
 
 ![My Stats](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
 ![Top Lang](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ### BYE 👋
