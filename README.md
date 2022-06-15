@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **[Composable Finance](https://www.composable.finance/)**
 - 🌱 I’m currently learning Blockchain libraries like @polkadot/extension-dapp
 - 👯 I’m looking to collaborate on DeFi projects
-- 📫 How to reach me: **[Portfolio](https://www.juansvc.netlify.com/)**,**[Telegram](https://www.t.me/juansvc)**
-- 😄 Pronouns: he/him/his
+- 📫 How to reach me: **[Portfolio](https://juansvc.netlify.com/)**, **[Telegram](https://t.me/juansvc)**
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Father of a Beautiful 👸🏼. Bitcoin and 🪂 Fanatic.
 
 # Technology stack
@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 
 ## **Top Langs**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&theme=swift&hide=python,jupyter%20notebook,shell)](https://github.com/juansvc/github-readme-stats)
+
+### BYE 👋
