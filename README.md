@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 ![Storybook](https://img.shields.io/badge/Storybook-red)
 ![GraphQL](https://img.shields.io/badge/GraphQL-red)
 
-![](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![My Stats](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Top Lang](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ### BYE 👋
