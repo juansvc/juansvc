@@ -1,4 +1,4 @@
-### Hi there 👋 Hi I'm Juan a Senior Front End Developer
+# Hi there 👋 Hi I'm Juan a Senior Front End Developer
 
 <!--
 **juansvc/juansvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Father of a Beautiful 👸🏼. Bitcoin and 🪂 Fanatic.
 
-# Technology stack
+## Technology stack
 
 ![React](https://img.shields.io/badge/React-blue)
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
