@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![Storybook](https://img.shields.io/badge/Storybook-red)
 ![GraphQL](https://img.shields.io/badge/GraphQL-red)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juansvc&hide=contribs,prs&show_icons=true&theme=swift)](https://github.com/juansvc/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=juansvc&hide=contribs,prs&show_icons=true&theme=swift)](https://github.com/juansvc/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&theme=swift&hide=python,jupyter%20notebook,shell)](https://github.com/juansvc/github-readme-stats)
 
