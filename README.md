@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Father of a Beautiful 👸🏼. Bitcoin and 🪂 Fanatic.
 
-## Technology stack
+## Some stats from Github 🤓
 
 ![React](https://img.shields.io/badge/React-blue)
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
@@ -34,10 +34,8 @@ Here are some ideas to get you started:
 ![Storybook](https://img.shields.io/badge/Storybook-red)
 ![GraphQL](https://img.shields.io/badge/GraphQL-red)
 
-## **Github Stats**
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juansvc&hide=contribs,prs&show_icons=true&theme=swift)](https://github.com/juansvc/github-readme-stats)
 
-## **Top Langs**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&theme=swift&hide=python,jupyter%20notebook,shell)](https://github.com/juansvc/github-readme-stats)
 
 ### BYE 👋
