@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ![React](https://img.shields.io/badge/React-blue)
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-black)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue)
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-blue)
-![TaiwlandCSS](https://img.shields.io/badge/JavaScript-black)
-![JSS](https://img.shields.io/badge/JSS-black)
-![Jest](https://img.shields.io/badge/Jest-black)
+![TaiwlandCSS](https://img.shields.io/badge/JavaScript-blue)
+![JSS](https://img.shields.io/badge/JSS-blue)
+![Jest](https://img.shields.io/badge/Jest-blue)
 ![Storybook](https://img.shields.io/badge/Storybook-red)
 ![GraphQL](https://img.shields.io/badge/GraphQL-red)
 
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juansvc&hide=contribs,prs&show_icons=true&theme=swift)](https://github.com/juansvc/github-readme-stats)
 
 ## **Top Langs**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&theme=swift)](https://github.com/juansvc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&theme=swift&langs_count=7&hide=python,jupyter)](https://github.com/juansvc/github-readme-stats)
