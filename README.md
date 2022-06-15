@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juansvc&hide=contribs,prs&show_icons=true&theme=swift)](https://github.com/juansvc/github-readme-stats)
 
 ## **Top Langs**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&theme=swift&langs_count=7&hide=python,jupyter)](https://github.com/juansvc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&theme=swift&hide=python,jupyter notebook,shell)](https://github.com/juansvc/github-readme-stats)
