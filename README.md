@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **[Composable Finance](https://www.composable.finance/)**
+- 🔭 I’m currently collaborating with **[Composable Finance](https://www.composable.finance/)**
 - 🌱 I’m currently learning Blockchain libraries like @polkadot/extension-dapp
 - 👯 I’m looking to collaborate on DeFi projects
 - 📫 How to reach me: **[Telegram](https://www.juansvc.netlify.com/)**
