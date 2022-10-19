@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue)
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-blue)
-![TaiwlandCSS](https://img.shields.io/badge/JavaScript-blue)
+![TaiwlandCSS](https://img.shields.io/badge/TaiwlandCSS-blue)
 ![JSS](https://img.shields.io/badge/JSS-blue)
 ![Jest](https://img.shields.io/badge/Jest-blue)
 ![Storybook](https://img.shields.io/badge/Storybook-red)
