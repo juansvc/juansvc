@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Some stats from Github 🤓
 
 ![My Stats](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/overview.svg)
-![Top Lang](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/languages.svg)
+<!-- ![Top Lang](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/languages.svg) -->
 
 ![React](https://img.shields.io/badge/React-blue)
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
