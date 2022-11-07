@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 ## Some stats from Github 🤓
 
+![My Stats](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Top Lang](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 ![React](https://img.shields.io/badge/React-blue)
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue)
@@ -33,8 +36,5 @@ Here are some ideas to get you started:
 ![Jest](https://img.shields.io/badge/Jest-blue)
 ![Storybook](https://img.shields.io/badge/Storybook-red)
 ![GraphQL](https://img.shields.io/badge/GraphQL-red)
-
-![My Stats](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Top Lang](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ### BYE 👋
