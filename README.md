@@ -24,10 +24,8 @@ Here are some ideas to get you started:
 
 ## Some stats from Github 🤓
 
-![My Stats](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![My Stats](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![Top Lang](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![Top Lang](https://raw.githubusercontent.com/juansvc/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=juansvc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats#gh-dark-mode-only)
+[![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=juansvc&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/juansvc/github-readme-stats#gh-light-mode-only)
 
 ![React](https://img.shields.io/badge/React-blue)
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
