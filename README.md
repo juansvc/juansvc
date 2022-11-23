@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!-- [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell&theme=default#gh-light-mode-only)](https://github.com/juansvc/github-readme-stats) -->
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=juansvc&include_all_commits=true&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats#gh-dark-mode-only)
 [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=juansvc&include_all_commits=true&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/juansvc/github-readme-stats#gh-light-mode-only)
-[![My wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc)](https://github.com/juansvc/github-readme-stats)
+[![My wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc&layout=compact)](https://github.com/juansvc/github-readme-stats)
 <!-- [![My wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats) -->
 
 ![React](https://img.shields.io/badge/React-blue)
