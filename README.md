@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc&layout=compact" />
 </a>
 <!-- [![My wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats) -->
-<br>
+</br>
 
 ![React](https://img.shields.io/badge/React-blue)
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
