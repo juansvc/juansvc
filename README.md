@@ -11,8 +11,6 @@
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> 
 
-</br>
-
 ![React](https://img.shields.io/badge/React-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue)
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
@@ -23,7 +21,7 @@
 ![Storybook](https://img.shields.io/badge/Storybook-red)
 ![GraphQL](https://img.shields.io/badge/GraphQL-red)
 
-## Some stats from Github 🤓
+## Some stats 🤓
 
 [![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell)](https://github.com/juansvc/github-readme-stats)
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc&layout=compact)](https://github.com/juansvc/github-readme-stats)
