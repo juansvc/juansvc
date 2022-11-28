@@ -28,6 +28,5 @@
 <a href="https://github.com/juansvc/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell" />
 </a>
-<a href="https://github.com/juansvc/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc&layout=compact" />
-</a>
+[![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell)](https://github.com/juansvc/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc)](https://github.com/juansvc/github-readme-stats)
