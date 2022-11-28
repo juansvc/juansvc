@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Juan a Senior Front End Developer
+# HI THERE! 👋 I'm Juan a Senior Front End Developer
 
 <!--
 **juansvc/juansvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats) -->
 <a href="https://github.com/juansvc/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell" />
 </a>
 <!-- [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=juansvc&include_all_commits=true&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats#gh-dark-mode-only)
 [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=juansvc&include_all_commits=true&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/juansvc/github-readme-stats#gh-light-mode-only) -->
