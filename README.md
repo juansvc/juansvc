@@ -31,17 +31,16 @@ Here are some ideas to get you started:
 ## Some stats from Github 🤓
 
 <!-- [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats) -->
-[![My Top Langs]]
 <a href="https://github.com/juansvc/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <!-- [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=juansvc&include_all_commits=true&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats#gh-dark-mode-only)
 [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=juansvc&include_all_commits=true&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/juansvc/github-readme-stats#gh-light-mode-only) -->
-[![My Wakatime Stats]]
 <a href="https://github.com/juansvc/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc&layout=compact" />
 </a>
 <!-- [![My wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats) -->
+<br>
 
 ![React](https://img.shields.io/badge/React-blue)
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
