@@ -28,20 +28,6 @@ Here are some ideas to get you started:
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-## Some stats from Github 🤓
-
-<!-- [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats) -->
-<div>
-  <a href="https://github.com/juansvc/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-  </a>
-  <!-- [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=juansvc&include_all_commits=true&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats#gh-dark-mode-only)
-  [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=juansvc&include_all_commits=true&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/juansvc/github-readme-stats#gh-light-mode-only) -->
-  <a href="https://github.com/juansvc/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc&layout=compact" />
-  </a>
-</div>
-<!-- [![My wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats) -->
 </br>
 
 ![React](https://img.shields.io/badge/React-blue)
@@ -53,5 +39,20 @@ Here are some ideas to get you started:
 ![Jest](https://img.shields.io/badge/Jest-blue)
 ![Storybook](https://img.shields.io/badge/Storybook-red)
 ![GraphQL](https://img.shields.io/badge/GraphQL-red)
+
+## Some stats from Github 🤓
+
+<!-- [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats) -->
+<a href="https://github.com/juansvc/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<!-- [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=juansvc&include_all_commits=true&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats#gh-dark-mode-only)
+[![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=juansvc&include_all_commits=true&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/juansvc/github-readme-stats#gh-light-mode-only) -->
+<a href="https://github.com/juansvc/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc&layout=compact" />
+</a>
+<!-- [![My wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=@juansvc&theme=dark#gh-dark-mode-only)](https://github.com/juansvc/github-readme-stats) -->
+</br>
+
 
 ### BYE 👋
