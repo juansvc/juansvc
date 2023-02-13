@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Juan a Senior Front End Developer
 
-- 🔭 I’m currently collaborating with **[Zen Projects](https://zenprojects.com)**
 - 🌱 I’m looking to collaborate on DeFi projects
 - 📫 Check out my **[Portfolio](https://juansvc.netlify.com)** page
 - 😄 Pronouns: He/Him/His
