@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Juan a Senior Front End Developer
 
 - 🌱 I’m looking to collaborate on DeFi projects
-- 📫 Check out my **[Portfolio](https://juansvc.netlify.com)** page
+- 📫 Check out my **[Portfolio](https://juansvivanco.com)** page
 - 😄 Pronouns: He/Him/His
 
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
