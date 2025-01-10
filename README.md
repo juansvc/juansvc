@@ -22,3 +22,5 @@
 ## Some stats 🤓
 
 [![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell,html,css)](https://github.com/juansvc/github-readme-stats)
+
+[![Juan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juansvivanco)](https://github.com/juansvc/github-readme-stats)
