@@ -21,6 +21,6 @@
 
 ## Some stats 🤓
 
-[![Juan's Average Time Last Year](https://github-readme-stats.vercel.app/api/wakatime?username=juansvivanco&layout=compact&langs_count=8)](https://github.com/juansvc/github-readme-stats)
+[![Juan's Average Time Last Year](https://github-readme-stats.vercel.app/api/wakatime?username=juansvivanco&layout=compact&langs_count=8)]([https://github.com/juansvc/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell,html,css)](https://github.com/juansvc/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell,html,css)]([https://github.com/juansvc/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
