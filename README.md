@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Juan a Senior Front End Developer
-
 # 💫 About Me:
 🌱 I’m looking to collaborate on DeFi projects<br>📫 Check out my Portfolio page<br>😄 Pronouns: He/Him/His
 
@@ -14,8 +13,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=juansvc&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=juansvc&limit=5&theme=default&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 
