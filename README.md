@@ -56,9 +56,9 @@ Specialized in **AI-integrated UIs**, real-time systems, and performance optimiz
 
 ## Stats
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=juansvivanco&layout=compact&langs_count=8&hide_border=true)](https://wakatime.com/@juansvivanco)
+[![GitHub Streak](https://streak-stats.demolab.com?user=juansvc&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/juansvc)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juansvc&layout=compact&hide=python,jupyter%20notebook,ruby,shell,html,css&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime](https://img.shields.io/badge/WakaTime-juansvivanco-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@juansvivanco)
 
 ---
 
