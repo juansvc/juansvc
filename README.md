@@ -52,12 +52,6 @@ Specialized in **AI-integrated UIs**, real-time systems, and performance optimiz
 - **AI document analysis** — PDF parsing, auto-extraction, intelligent form filling (−70% manual data entry)
 - **Real-time state management** with URQL GraphQL cache + TanStack Query + Jotai in React 19 strict mode
 
----
-
-## Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=juansvc&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/juansvc)
-
 [![WakaTime](https://img.shields.io/badge/WakaTime-juansvivanco-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@juansvivanco)
 
 ---
